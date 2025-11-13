@@ -79,7 +79,7 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 3. Integrate with at least one external API
 4. Style your application with Tailwind CSS
 5. Deploy your application and add the URL to your README.md
-
+6.Vercel Deployment Link:https://vercel.com/raheem-motunrayo-taibat-s-projects/react-js-jsx-and-css-mastering-front-end-development-tbatbaby/46HDEiVTXxt9pyhsC6AmG3k1VjdS
 ## Resources
 
 - [React Documentation](https://react.dev/)
